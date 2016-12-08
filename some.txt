@@ -3,5 +3,9 @@ some new data.
 foo_features text.
 =======
 foo_features text changing.
+<<<<<<< HEAD
 >>>>>>> foo_features
 master text changing.
+=======
+master text changing so.
+>>>>>>> foo_features
