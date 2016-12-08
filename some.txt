@@ -1,2 +1,3 @@
 some new data.
-foo_features text.
+foo_features text changing.
+master text changing.
