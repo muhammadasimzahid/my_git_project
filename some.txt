@@ -1,3 +1,7 @@
 some new data.
+<<<<<<< HEAD
 foo_features text.
+=======
+foo_features text changing.
+>>>>>>> foo_features
 master text changing.
