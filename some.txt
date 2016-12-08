@@ -1,11 +1,1 @@
-some new data.
-<<<<<<< HEAD
-foo_features text.
-=======
-foo_features text changing.
-<<<<<<< HEAD
->>>>>>> foo_features
-master text changing.
-=======
-master text changing so.
->>>>>>> foo_features
+starting from here.
